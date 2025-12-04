@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDzQLHPfUJ6ucdPb0ak4YG-AeEkqrJnDbk',
-    appId: '1:409648398649:web:15395b46acd401cc7f28e8',
-    messagingSenderId: '409648398649',
-    projectId: 'autenticacion-firebase-10b',
-    authDomain: 'autenticacion-firebase-10b.firebaseapp.com',
-    storageBucket: 'autenticacion-firebase-10b.firebasestorage.app',
+    apiKey: '...',
+    appId: '...',
+    messagingSenderId: '...',
+    projectId: '...',
+    authDomain: '...',
+    storageBucket: '...',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBr5_YlUZGKp-JYA4MLHbTUPuHQbGA0Hgs',
-    appId: '1:409648398649:android:21de7ec0eecfaf937f28e8',
-    messagingSenderId: '409648398649',
-    projectId: 'autenticacion-firebase-10b',
-    storageBucket: 'autenticacion-firebase-10b.firebasestorage.app',
+    apiKey: '...',
+    appId: '...',
+    messagingSenderId: '...',
+    projectId: '...',
+    storageBucket: '...',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB0zdvb_B7kt9eigCDpoI4MESwP5MkS1mY',
-    appId: '1:409648398649:ios:e3852ca94adda7a17f28e8',
-    messagingSenderId: '409648398649',
-    projectId: 'autenticacion-firebase-10b',
-    storageBucket: 'autenticacion-firebase-10b.firebasestorage.app',
-    iosBundleId: 'com.example.firebaseCldMsg',
+    apiKey: '...',
+    appId: '...',
+    messagingSenderId: '...',
+    projectId: '...',
+    storageBucket: '...',
+    iosBundleId: '...',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB0zdvb_B7kt9eigCDpoI4MESwP5MkS1mY',
+    apiKey: '...',
     appId: '1:409648398649:ios:e3852ca94adda7a17f28e8',
-    messagingSenderId: '409648398649',
+    messagingSenderId: '...',
     projectId: 'autenticacion-firebase-10b',
-    storageBucket: 'autenticacion-firebase-10b.firebasestorage.app',
-    iosBundleId: 'com.example.firebaseCldMsg',
+    storageBucket: '...',
+    iosBundleId: '...',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDzQLHPfUJ6ucdPb0ak4YG-AeEkqrJnDbk',
-    appId: '1:409648398649:web:59f344c42f21ff2f7f28e8',
-    messagingSenderId: '409648398649',
-    projectId: 'autenticacion-firebase-10b',
-    authDomain: 'autenticacion-firebase-10b.firebaseapp.com',
-    storageBucket: 'autenticacion-firebase-10b.firebasestorage.app',
+    apiKey: '...',
+    appId: '...',
+    messagingSenderId: '...',
+    projectId: '...',
+    authDomain: '...',
+    storageBucket: '...',
   );
 }
